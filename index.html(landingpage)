@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur Mon Site Web</h1>
+        <nav>
+            <ul>
+                <li><a href="pages/fonctionnalites.html">Fonctionnalités</a></li>
+                 <li><a href="pages/accueil.html">Accueil</a></li>
+                <li><a href="pages/a propos.html">A propos</a></li>
+                <li><a href="pages/contact.html">Contact</a></li>
+                 <li><a href="pages/panier.html">Panier</a></li>
+                  <li><a href="pages/validationde commande.html">validation de commande</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Découvrez notre plateforme</h2>
+        <p>Voici une description rapide de ce que fait notre site et pourquoi il est intéressant.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mon Site Web. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
